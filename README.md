@@ -58,12 +58,10 @@ No Linux/macOS:
 
 ## Como Utilizar
 
-1. O usuário escolhe uma opção de 1 a 5 no terminal;
-2. Ele insere os valores das váriaveis;
-3. O resultado da operação aparece no terminal;
-4. O usuário escolhe se deseja fazer outra operação.
-
-5. 
+1. O usuário escolhe uma opção de operação (1 a 5) no menu exibido no terminal;
+2. Caso escolha uma operação matemática (1 a 4), o usuário insere os valores das váriaveis;
+3. O programa realiza o calculo e o resultado aparece no terminal;
+4. O usuário escolhe se deseja realizar outra operação ou encerrar o programa.
 
 ## Estrutura do Projeto
 

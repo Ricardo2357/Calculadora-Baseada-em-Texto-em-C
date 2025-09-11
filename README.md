@@ -15,10 +15,9 @@ Interface da Calculadora em execução no terminal.
 
 ### Pré-requisitos
 
-- Compilador C++ compatível com C++11 ou superior;
+- Compilador C compatível com o padrão C99 ou superior;
 - Terminal ou prompt de comando para executar o programa;
-- Sistema Windows para limpar a tela automaticamente com system("cls");
--  Para Linux/macOS, o comando system("cls") deve ser alterado para system("clear").
+- Sistema operacional Windows, Linux ou macOS.
 
 ### Passos para Instalar
 
@@ -34,13 +33,13 @@ Após baixar ou clonar o projeto, siga os passos abaixo para compilar e executar
 No Windows, abra o terminal e digite:
 
 ```
-g++ src/Jogo-da-Velha.cpp -o JogoDaVelha.exe
+gcc Calculadora-Baseada-em-Texto-em-C.c -o Calculadora.exe
 ```
 
 No Linux/macOS:
 
 ```
-g++ src/Jogo-da-Velha.cpp -o JogoDaVelha
+gcc Calculadora-Baseada-em-Texto-em-C.c -o Calculadora
 ```
 
 ### Executando o Jogo:
@@ -48,21 +47,23 @@ g++ src/Jogo-da-Velha.cpp -o JogoDaVelha
 No Windows:
 
 ```
-JogoDaVelha.exe
+Calculadora.exe
 ```
 
 No Linux/macOS:
 
 ```
-./JogoDaVelha
+./Calculadora
 ```
 
 ## Como Utilizar
 
-1. O Jogador 1 (X) escolhe uma posição de 1 a 9 no tabuleiro;
-2. O Jogador 2 (O) faz sua jogada em seguida;
-3. O tabuleiro é atualizado a cada jogada;
-4. O jogo termina quando um jogador vence ou ocorre empate.
+1. O usuário escolhe uma opção de 1 a 5 no terminal;
+2. Ele insere os valores das váriaveis;
+3. O resultado da operação aparece no terminal;
+4. O usuário escolhe se deseja fazer outra operação.
+
+5. 
 
 ## Estrutura do Projeto
 

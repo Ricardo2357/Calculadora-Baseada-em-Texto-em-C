@@ -9,7 +9,7 @@ Este projeto consiste em uma calculadora simples desenvolvida em C, que permite 
 
 ![Imagem do Terminal](assets/Calculadora-Terminal.png)
 
-Interface do Jogo da Velha em execução no terminal.
+Interface da Calculadora em execução no terminal.
 
 ## Instalação e Pré-requisitos
 
@@ -57,7 +57,7 @@ No Linux/macOS:
 ./JogoDaVelha
 ```
 
-## Como Jogar
+## Como Utilizar
 
 1. O Jogador 1 (X) escolhe uma posição de 1 a 9 no tabuleiro;
 2. O Jogador 2 (O) faz sua jogada em seguida;
@@ -67,14 +67,15 @@ No Linux/macOS:
 ## Estrutura do Projeto
 
 ```
-Jogo-da-Velha-em-CPP/
+Calculadora-Baseada-em-Texto-C/
 ├── assets/
-│   └── Jogo-da-Velha.png
+│   └── Calculadora-Terminal.png
 ├── src/
-│   └── Jogo-da-Velha.cpp
+│   └── Calculadora-Baseada-em-Texto-C.cpp
 ├── LICENSE
 └── README.md
 ```
+
 ## Licença 
 
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes. 

@@ -42,7 +42,7 @@ No Linux/macOS:
 gcc Calculadora-Baseada-em-Texto-em-C.c -o Calculadora
 ```
 
-### Executando o Jogo:
+### Executando a Calculadora:
 
 No Windows:
 

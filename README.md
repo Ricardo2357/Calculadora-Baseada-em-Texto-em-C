@@ -7,7 +7,7 @@ Este projeto consiste em uma calculadora simples desenvolvida em C, que permite 
 
 ## Demonstração
 
-![Imagem do Terminal](images/Calculadora-Terminal.png)
+![Imagem do Terminal](images/Calculadora-Terminal(1).png)
 
 Interface da Calculadora em execução no terminal.
 

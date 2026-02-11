@@ -33,13 +33,13 @@ Após baixar ou clonar o projeto, siga os passos abaixo para compilar e executar
 No Windows, abra o terminal e digite:
 
 ```
-gcc Calculadora-Baseada-em-Texto-em-C.c -o Calculadora.exe
+gcc calculadora-baseada-em-texto.c -o calculadora.exe
 ```
 
 No Linux/macOS:
 
 ```
-gcc Calculadora-Baseada-em-Texto-em-C.c -o Calculadora
+gcc calculadora-baseada-em-texto.c -o calculadora
 ```
 
 ### Executando a Calculadora:
@@ -47,13 +47,13 @@ gcc Calculadora-Baseada-em-Texto-em-C.c -o Calculadora
 No Windows:
 
 ```
-Calculadora.exe
+calculadora.exe
 ```
 
 No Linux/macOS:
 
 ```
-./Calculadora
+./calculadora
 ```
 
 ## Como Utilizar
@@ -67,10 +67,10 @@ No Linux/macOS:
 
 ```
 Calculadora-Baseada-em-Texto-C/
-├── assets/
-│   └── Calculadora-Terminal.png
+├── images/
+│   └── terminal-calculadora.png
 ├── src/
-│   └── Calculadora-Baseada-em-Texto-C.cpp
+│   └── calculadora-baseada-em-texto.cpp
 ├── LICENSE
 └── README.md
 ```
